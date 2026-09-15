@@ -2,7 +2,7 @@
 
 ## Introduction 
 This project solves a grouping/clustering problem within a dataset of different measurements of different seeds, helping farmers to divide different seed types from one another even though they arrived unlabeled.
-The study and all of the relevant information has been thoroughly stated in the report PDF.
+The study and all of the relevant information has been thoroughly stated in the report PDF. This project was made possible by the courtesy of ERASMUS+ LEAP Program and their valuable lessons on Machine learning,
 
 ## Purpose of study
 This study aims to help farmers or agriculture co-op to be able to differentiate the seeds without having to do in-depth studies on each individual seed or to group hem by chance. Through clustering, we can use the measurements in hopes of grouping each seed in it's relative type and use our findings in the future. In the mean time, we are evaluating how precise can clustering match the real varieties and the decisions that has to be made in the process of finding the correct cluster amount
