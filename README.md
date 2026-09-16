@@ -14,7 +14,7 @@ Across the measured 210 seeds, we have found 3 different varieties of seeds in o
 In this project we have used PCA and K-clustering with the help of packages that are available to viewers in the SourceCode directory as a frozen requirements text. Data is the courtesy of : Charytanowicz, M., Niewczas, J., Kulczycki, P., Kowalski, P., & Lukasik, S. (2010). Seeds [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5H30K.
 
 ## Caution
-It has to be taken into consideration that the original 7 features have been reduced into only 2 using PCA, so it would be recommended to be caution when making judgement by only looking at the PCA Scatter plots (Present in both the report file and the outputs directory). The Purity score may be high but still not 100% accurate, so despite being a great help, this method can not be taken as the sole solution to the problem and there is always room for improvements and advancements. Also we must mention that **A cluster is not automatically a real biological category.**
+It has to be taken into consideration that the original 7 features have been reduced into only 2 using PCA, so it would be recommended to be caution when making judgement by only looking at the PCA Scatter plots (Present in both the report file and the Exports directory). The Purity score may be high but still not 100% accurate, so despite being a great help, this method can not be taken as the sole solution to the problem and there is always room for improvements and advancements. Also we must mention that **A cluster is not automatically a real biological category.**
 
 The Notebook already has all of its outputs visible, and more information can be found in the reports file.
 
